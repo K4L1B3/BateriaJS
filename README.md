@@ -1,2 +1,2 @@
 # BateriaJS
-Refiz um código para aprender a criar uma bateria virtual e entender melhor como funciona o sistema de sons e entradas de teclado no JS
+> Dessa vez recriei uma baterias em JS para entender melhor como funciona as questões de inputs com teclado no HTML e JS além de entender também como se trabalha com sons no JavaScript
